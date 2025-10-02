@@ -1,26 +1,35 @@
-       .zaobli {
-            border-radius: 20px;
-        }
+.zaobli {
+  border-radius: 20px;
+}
 
-       .naslov {
-            text-decoration: underline;
-        }
+.naslov {
+  text-decoration: underline;
+}
 
-        h3 {
-            color: purple;
-        }
+h3 {
+  color: purple;
+}
 
-        html, body { height: 100%; }
-        html, body { height: 100%; }
-        body {
-        margin: 0;
-        display: grid;
-        place-items: center;                  
-        }
-       .page {
-        display: grid;
-        justify-items: center;                
-        gap: 3px;
-        text-align: center;
-        width: min(680px, 92vw);
-        }
+html,
+body {
+  height: 100%;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+.page {
+  display: grid;
+  justify-items: center;
+  gap: 3px;
+  text-align: center;
+  width: min(680px, 92vw);
+}
+.aquaPozadina {
+    background-color: aqua;
+}
